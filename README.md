@@ -1,2 +1,2 @@
 # Plant-disease-detection
-##CNN
+# CNN
